@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-09-28T01:55:03.284750792Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-09-28T01:57:52.614856259Z",
     "templateType": "trip_l",
     "propertyId": "c28c1913-63a4-44aa-89bb-d17f74e48c33",
     "homepageId": "01a0a92d-7ecc-7914-8d8e-22d0a12d44d5"
@@ -1604,7 +1604,7 @@
                     "id": "01a0a934-82ce-7631-a5bc-045572674a57",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a92d-7ecc-7914-8d8e-22d0a12d44d5/index_hero/1789545181401-xfpiszbwlq.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "힐링카라반",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -1612,7 +1612,7 @@
                     "id": "01a0a934-7fa4-7b96-9e50-bf002486781b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a92d-7ecc-7914-8d8e-22d0a12d44d5/index_hero/1789545181402-s8mv1e4zfh.jpg",
                     "sortOrder": 1,
-                    "description": "",
+                    "description": "프라이빗",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -1620,7 +1620,7 @@
                     "id": "01a0a934-8229-77ff-a11a-3326d70798b5",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a92d-7ecc-7914-8d8e-22d0a12d44d5/index_hero/1789545181403-xp6cpwy9jh.jpg",
                     "sortOrder": 2,
-                    "description": "",
+                    "description": "휴식처",
                     "isSelected": true,
                     "blockId": null
                   },
