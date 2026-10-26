@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-10-26T08:28:13.917871316Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-10-26T08:28:40.636990303Z",
     "templateType": "trip_l",
     "propertyId": "c28c1913-63a4-44aa-89bb-d17f74e48c33",
     "homepageId": "01a0a92d-7ecc-7914-8d8e-22d0a12d44d5"
@@ -3329,8 +3329,8 @@
               "category": "roomtype_exterior"
             },
             {
-              "id": "01a17752-e1e3-72a7-a0dc-2753d05e132e",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a92d-7ecc-7914-8d8e-22d0a12d44d5/roomtype_exterior/1793003280593-5vwrhiz0h9.jpg",
+              "id": "01a17753-69c0-7802-9f7d-c4647c666c1e",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a92d-7ecc-7914-8d8e-22d0a12d44d5/roomtype_exterior/1793003317330-g6pvzm92fc.jpg",
               "sortOrder": 13,
               "description": "",
               "isSelected": true,
